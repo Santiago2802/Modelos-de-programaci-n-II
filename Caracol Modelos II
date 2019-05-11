@@ -14,3 +14,7 @@ def caracol (m):
     
 
 print(caracol([x.split() for x in open('C:/Users/asus/Desktop/matriz.txt').readlines()]))
+
+#Santiago Gómez Almeyda
+#Kevin Borda
+#Arthur Sánchez
